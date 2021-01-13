@@ -10,6 +10,7 @@ html {
     background-color: #000;
     width: 40rem;
     margin: auto;
+    font-size: 1.6rem;
 }
 
 .calcu-row {
@@ -25,8 +26,11 @@ html {
     background-color: #000;
     color: #fff;
     border: none;
+    height: 8.5rem;
 }
 
 ::placeholder {
     color: #fff;
+    font-size: 3.4rem;
+    font-weight: bold;
 }
