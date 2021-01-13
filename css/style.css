@@ -33,6 +33,7 @@ html {
     margin: .1rem;
     background-color: #D8D9DB;
     font-size: 2.6rem;
+    border: none;
 }
 
 .calcu-btn-clear {
