@@ -17,3 +17,12 @@ html {
     display: flex;
     width: 100%;
 }
+
+.screen {
+    width: 40rem;
+    height: 8.5rem;
+    text-align: right;
+    align-items: center;
+    color: #fff;
+    font-size: 4rem;
+}
