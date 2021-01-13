@@ -30,4 +30,9 @@ html {
 .calcu-button {
     width: 9.8rem;
     height: 10rem;
+    margin: .1rem;
+}
+
+.calcu-btn-clear {
+    width: 19.8rem;
 }
