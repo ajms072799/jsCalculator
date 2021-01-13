@@ -17,39 +17,3 @@ html {
     display: flex;
     width: 100%;
 }
-
-.calcu-output {
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    text-align: right;
-    background-color: #000;
-    color: #fff;
-    border: none;
-    height: 8.5rem;
-}
-
-::placeholder {
-    color: #fff;
-    font-size: 3.4rem;
-    font-weight: bold;
-}
-
-.clear {
-    width: 198px;
-    height: 100px;
-}
-
-.numeric {
-    width: 98px;
-    height: 100px;
-}
-
-.operator, .backspace, .equal {
-    width: 98px;
-    height: 100px;
-}
-
-.numeric-themed {
-    width: 298px;
-}
