@@ -34,3 +34,22 @@ html {
     font-size: 3.4rem;
     font-weight: bold;
 }
+
+.clear {
+    width: 198px;
+    height: 100px;
+}
+
+.numeric {
+    width: 98px;
+    height: 100px;
+}
+
+.operator, .backspace, .equal {
+    width: 98px;
+    height: 100px;
+}
+
+.numeric-themed {
+    width: 298px;
+}
